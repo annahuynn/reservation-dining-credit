@@ -20,4 +20,7 @@ Pandas
 ## Author
 Anna Huynh
 UC Berkeley — Data Science
+
+## Demo image
+
 ![Demo](images/demo.png)
